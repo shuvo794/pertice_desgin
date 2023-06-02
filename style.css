@@ -36,4 +36,12 @@ a{
     font-size: 24px;
  
 }
+
+.banner_img{
+   background-image: url(./img/pexels-flo-dahm-1137511.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding: 300px 0; 
+}
  
