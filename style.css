@@ -46,7 +46,13 @@ a{
 }
 
 .service-item{
-    
+   text-align: center;
+    width: 450px;
+    height: 200px;
+    float: left;
+    border: 1px solid red;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
  
