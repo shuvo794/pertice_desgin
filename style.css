@@ -56,4 +56,19 @@ a{
     padding: 50px;
 }
 
+/* Signup */
+.main-div{
+    background-image: url(./img/pexels-felix-mittermeier-956999.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 100px  0;
+}
+
+.tabile{
+    margin:0 auto;
+    color: #fbfbfb;
+    
+}
+
  
