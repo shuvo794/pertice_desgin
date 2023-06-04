@@ -71,7 +71,7 @@ a{
 
 .tabile{
     margin:0 auto;
-    color: #fbfbfb;
+    color: #fff;
     
 }
 
@@ -93,15 +93,27 @@ a{
 
 
 
+
+
 .tabile tr td ::placeholder{
     color: #fff;
     padding: 5px;
 }
 .tabile tr td button{
     width: 85px;
-    height: 45px;
+    height: 35px;
     background: transparent;
     border: 2px solid #fff;
     color: #fff;
+    transition: .4s;
+}
+.tabile tr td button:hover{
+    background: #fff;
+    color: #000;
+    
+}
+.test{
+    width: 350px;
+    margin: 4px;
 }
  
