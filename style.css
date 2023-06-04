@@ -7,6 +7,10 @@ a{
     height: 100px;
  }
 
+ body{
+    font-family:  Roboto,'sans-serif';
+ }
+
 .full-warp{
     width: 100%;
 }
@@ -71,4 +75,33 @@ a{
     
 }
 
+.tabile tr td {
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.tabile tr td input {
+    color: #fff;
+    background: transparent;
+    border: none;
+    border: 3px solid #777;
+    padding: 20px 0;
+}
+
+
+
+
+
+.tabile tr td ::placeholder{
+    color: #fff;
+    padding: 5px;
+}
+.tabile tr td button{
+    width: 85px;
+    height: 45px;
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
  
